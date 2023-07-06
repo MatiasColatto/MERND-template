@@ -1,0 +1,1 @@
+A empty folder for dockerize a mongo database
