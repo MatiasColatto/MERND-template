@@ -1,0 +1,1 @@
+const exampleLongString = "Este es un ejemplo de una cadena que excede el límite de longitud de 100 caracteres. Aquí estamos probando la regla max-len de ESLint para asegurarnos de que funcione correctamente y nos muestre un error si una línea supera el límite.";
